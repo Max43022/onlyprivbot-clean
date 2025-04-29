@@ -1,6 +1,7 @@
 {
   "name": "onlyprivbot",
   "version": "1.0.0",
+  "description": "Bot OnlyPriv para pagamentos automáticos",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
